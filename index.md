@@ -1,4 +1,6 @@
+*****
+title: Vandringslust
 ---
-title: Welcome to my blog
----
+
+Välkommen hit, till min första blogg typ ever!
 
